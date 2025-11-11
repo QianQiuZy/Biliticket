@@ -37,7 +37,7 @@
 
 ## 问题报告
 
-提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@gmail.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
+提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@qq.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
 
 如发现倒卖行为和要求B站三连获取脚本等获利行为也请联系作者
 
