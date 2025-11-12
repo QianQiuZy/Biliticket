@@ -35,6 +35,12 @@
 
 已使用httpx
 
+因技术原因闭源
+
+会上传部分信息防止滥用和用于邮箱和短信通知
+
+承诺不会有任何破坏您电脑的操作或行为
+
 ## 问题报告
 
 提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@qq.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
