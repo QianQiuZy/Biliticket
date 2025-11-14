@@ -41,6 +41,14 @@
 
 承诺不会有任何破坏您电脑的操作或行为
 
+出现以下行为可能会被封禁：
+
+ - 在大社群公开宣传此脚本/上传此脚本截图
+ - 在社交平台直接宣传此脚本
+ - 二手转卖脚本
+
+在任何地方看到可以向作者举报，举报有奖
+
 ## 问题报告
 
 提交issue、[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=SoG6ZDKLfwPs7_YFbhU9vAD1ORCTq4h1)、邮箱qianqiuzy@qq.com或者B站私信[千秋紫莹](https://space.bilibili.com/351708822)
